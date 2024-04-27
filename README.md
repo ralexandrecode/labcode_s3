@@ -1,4 +1,4 @@
-## Código da aplicação em HTML, CSS e JavaScript 
+## Código da aplicação em HTML, CSS e JavaScript 👨‍💻🌏
 Este código serve para hospedar um site estático no armazenamento de dados do Amazon S3.
 Assim é possível ter um web site de baixo custo que exibe informações sobre níveis hidráulicos que recebe dados de um arquivo .csv alimentado manualmente por usuários locais na rede.
 
@@ -6,11 +6,9 @@ Assim é possível ter um web site de baixo custo que exibe informações sobre 
 
 ### Para mais informações siga os links:
 
-Artigo: https://www.linkedin.com/pulse/monitoramento-h%25C3%25ADdrico-com-site-est%25C3%25A1tico-aws-s3-ricardo-alexandre-ptchf/
-
-Vídeo Passo a Passo: https://youtu.be/zvU3Le2EN7c
-
-Aplicação Online: https://bucket002026.s3.amazonaws.com/index.html
+[Artigo |](https://www.linkedin.com/pulse/monitoramento-h%25C3%25ADdrico-com-site-est%25C3%25A1tico-aws-s3-ricardo-alexandre-ptchf/) 
+[Vídeo Passo a Passo |](https://youtu.be/zvU3Le2EN7c)
+[Aplicação Executando no S3](https://bucket002026.s3.amazonaws.com/index.html)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralexandrecode)
